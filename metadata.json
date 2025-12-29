@@ -1,0 +1,7 @@
+{
+  "name": "Learnix AI",
+  "description": "Learnix is a high-performance real-time chatbot created by Muhammed Sabith KP, featuring streaming text responses and low-latency voice-to-voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
